@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 
+import ClickityClick from '/'
 ReactDOM.render(
   <div>
     Mount Components Here
